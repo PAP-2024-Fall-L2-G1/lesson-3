@@ -1,0 +1,21 @@
+Poster content
+Feel free to make up your own circus content 
+as long you have the following tags in this order:
+
+Heading 3 - tagline:
+The Greatest Show on Earth
+
+Heading 1 - Name of circus:
+Cirque Circus
+
+Image:
+tent.png
+
+Heading 3 - Show Dates:
+June 20-30
+
+Heading 3 - Location:
+Peoria Arena Fair Grounds
+
+Paragraph - Ticket info:
+Tickets on sale wherever tickets are sold.

@@ -1,0 +1,42 @@
+Preparation
+1. Create a new file: poster.html 
+2. Use the Emmet Abbreviation to add the default structure tags
+3. Edit the title and add a link to the stylesheet
+2. Copy and paste the poster content from content.txt
+3. Mark it up as shown in content.txt
+
+Exercise 1
+1. In the head section, add style tags
+2. Select the body tag by its tagname
+Align all text to the center
+Set text color to #48887E
+
+Exercie 2
+1. Select all h3 tags
+Set text-transform to uppercase
+Set font-size to 40px
+2. Select the p tag
+Set font-style to italic
+Set font-size to 2em
+
+Exercise 3
+1. Go to https://fonts.google.com
+2. Find and select the fonts "Rye" and "Lalezar"
+or find some cool fonts you like!
+Paste the link tag from Google fonts in the head section
+before the style tags
+3. Add the font-family style rule to the body tag 
+Set its value to "Lalezar", sans-serif, or your choice of font
+4. Select the h1 tag
+Set its font-family to "Rye", cursive or your choice fo font
+Set its size to a large number, such as 100px;
+
+
+Exercise 4
+1. Add the class attribute "highlight" to the h1 tag and the h3 tag for the date.
+2. Use dot syntax and the classname highlight to select the tags
+Set highlight color to #c70000
+3. Add the id attribute to the h3 tag for the date, and set its value to date
+4. Select that tag by its id
+Set its size to 100px
+Set font-weight to bold

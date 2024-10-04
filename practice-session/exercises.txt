@@ -1,0 +1,44 @@
+Practice Session
+Make a blog with a home page and 3 article pages
+Create 4 new HTML files in total, linking the CSS stylesheet so they are visually cohesive
+
+Exercise 1
+Create the blog home page
+Use the Emmet Abbreviation, edit title, link to stylesheet
+Structure the content as follows:
+h1 - Name of your blog
+img - A picture
+h2 - First article title
+p - First article description
+a - Link to first article page
+h2 - Second article title
+p - Second article description
+a - Link to second article page
+h2 - Third article title
+p - Third article description
+a - Link to third article page
+
+1. Pick a topic for your blog, or use lorem ipsum and a random image
+2. Add the content and markup
+3. Choose 2 Google fonts, one for heading(s) and one for regular text
+4. Add your CSS to style the text. It will be easier to add it in the provided CSS file
+5. Select the body tag to set text styles for all elements (tags)
+6. Select the h1 tag and style it using a different font-family.
+Use font-weight or color to make it or the headings look the way you like.
+
+Exercise 2
+Create the 3 blog pages
+Structure the content as follows:
+h1 - Name of your blog
+img - A picture related to the article
+h2 - Article title
+h3 - Add a least 2 subheadings
+p - Add at least 4 paragraphs of text
+
+1. Give one tag an id and use it to style its text differently from the other text on the page.
+2. Give 2 tags a class and use it to style their content differently from the other text
+3. Practice these text style properties:
+font-style
+font-weight
+font-size
+text-transform
